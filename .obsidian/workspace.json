@@ -4,21 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "f13142ddd7c3c37a",
+        "id": "ec328e1ef2b786d9",
         "type": "tabs",
         "children": [
           {
-            "id": "5856c7e1f388f4a5",
+            "id": "ad3d25f7c3f910f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note 1.md",
+                "file": "Geo-Insights - Context Intelligence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Note 1"
+              "title": "Geo-Insights - Context Intelligence"
+            }
+          },
+          {
+            "id": "520625897265267f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
         ]
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note 1.md",
+                "file": "Assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Note 1"
+              "title": "Backlinks for Assignment"
             }
           },
           {
@@ -113,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note 1.md",
+                "file": "Assignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Note 1"
+              "title": "Outgoing links from Assignment"
             }
           },
           {
@@ -156,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note 1.md",
+                "file": "Assignment.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Note 1"
+              "title": "Outline of Assignment"
             }
           }
         ]
@@ -180,11 +192,46 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5856c7e1f388f4a5",
+  "active": "ad3d25f7c3f910f6",
   "lastOpenFiles": [
-    "Note 1.md"
+    "Images/Pasted image 20260303122213.png",
+    "Agentic AI/LangGraph.md",
+    "Geo-Insights - Context Intelligence.md",
+    "Key Concepts/Git Version Control.md",
+    "Assignment.md",
+    "Images/Screenshot 2026-02-24 at 10.51.38 AM.png",
+    "Images/88997 2",
+    "Images/88997 1",
+    "Images/88997.md",
+    "Images/88997",
+    "Images/Screenshot 2026-02-24 at 10.47.28 AM.png",
+    "DataBricks Skills.md",
+    "Agentic AI/Effective agents - Anthropic.md",
+    "Agentic AI/Principles of Agentic Systems.md",
+    "Data Sources/3rd Party Data/Others.md",
+    "Images",
+    "Images/Pasted image 20260204102901.png",
+    "Data Sources/3rd Party Data/Audience Datasets/Experian.md",
+    "Data Sources/3rd Party Data/Audience Datasets",
+    "Data Sources/3rd Party Data/TV Datasets/Vizio.md",
+    "Data Sources/3rd Party Data/Geo-Location Datasets/Unacast.md",
+    "Data Sources/3rd Party Data/TV Datasets/Samba.md",
+    "Data Sources/3rd Party Data/Geo-Location Datasets",
+    "Key Concepts",
+    "Data Sources/Untitled",
+    "Infrastructure",
+    "Data Sources/3rd Party Data/Identity Datasets/Tapad.md",
+    "Data Sources/3rd Party Data/Identity Datasets",
+    "Note 1.md",
+    "Data Sources/DSPs and 1st Part Data/DV360.md",
+    "Data Sources/DSPs and 1st Part Data/Yahoo.md",
+    "Data Sources/DSPs and 1st Part Data/Xandr.md",
+    "Data Sources/DSPs and 1st Part Data/What is 1st Party Data?.md",
+    "Data Sources/DSPs and 1st Part Data/TheTradeDesk.md",
+    "Data Sources/Untitled.md"
   ]
 }
