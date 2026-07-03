@@ -13,12 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geo-Insights - Context Intelligence.md",
+                "file": "Geo Insights - Data Segregation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geo-Insights - Context Intelligence"
+              "title": "Geo Insights - Data Segregation"
+            }
+          },
+          {
+            "id": "cb56eedd05b4207d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agentic AI/Agentic Resources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agentic Resources"
+            }
+          },
+          {
+            "id": "94ee257675ef6ceb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
             }
           },
           {
@@ -33,7 +59,8 @@
               "title": "Release Notes 1.11.7"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,11 +223,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad3d25f7c3f910f6",
+  "active": "94ee257675ef6ceb",
   "lastOpenFiles": [
+    "Agentic AI/Agentic Resources.md",
+    "Geo-Insights - Context Intelligence.md",
+    "Geo Insights - Data Segregation.md",
     "Images/Pasted image 20260303122213.png",
     "Agentic AI/LangGraph.md",
-    "Geo-Insights - Context Intelligence.md",
     "Key Concepts/Git Version Control.md",
     "Assignment.md",
     "Images/Screenshot 2026-02-24 at 10.51.38 AM.png",

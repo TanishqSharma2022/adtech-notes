@@ -69,3 +69,12 @@ Interpretation:
 So “**over‑indexing vs baseline**” just means:
 > “In this geo, the brand/audience shows up **more often than you’d expect** given its national average.”
 
+### 2. How this becomes “intent index” and “opportunity”
+
+In the Geo Insights spec each row in the geo table has:
+
+
+- **intent_index** – that index number above (how much more likely people in this geo are to show brand/audience intent vs baseline)
+- **opportunity_metric (opportunity)** – a size measure like `audience count`, `visits`, `impressions`, or `population`
+    
+    [](https://mediaiq.atlassian.net/wiki/spaces/MIP/pages/4895408145)
